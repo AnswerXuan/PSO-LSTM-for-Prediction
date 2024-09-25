@@ -36,7 +36,7 @@ l = ['000001.SS', 'AAPL', 'BTC-USD' , 'DJI', 'Gold_daily','GSPC','IXIC']
 
 for i in l:
     #path
-    file_path = 'C:/lyx/learning/期刊论文/程序结果/Informer/' + i#要保存图片和excel的那个文件夹,每次运行需要修改!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    file_path = 'C:/lyx/learning/期刊论文/程序结果/PSO-LSTM/' + i#要保存图片和excel的那个文件夹,每次运行需要修改!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
     #PSO中公式参数
     c1_start = 2.55
