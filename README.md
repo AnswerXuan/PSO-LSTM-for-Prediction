@@ -1,4 +1,4 @@
-# PSO-LSTM-for-forecasting
+# PSO-LSTM-for-Prediction
 Prediction of the Stock Adjusted Closing Price Based on Improved PSO-LSTM Neural Network(Keras,Python)
 
 The code model is based on LSTM neural network optimized by improved particle swarm optimization algorithm, which predicts the next day by Adj Close Price of the first 20 days.
