@@ -477,7 +477,7 @@ for i in l:
     print('real.shape',y_test.shape)#(735, 1)
 
     stock = i
-    model2 = 'LSTM'
+    model2 = 'PSO-LSTM'
     csv_path = 'C:/lyx/learning/期刊论文/程序结果/对比图表/' + stock +'/' + model2 + '.xls'
     df = pd.DataFrame(p)
     df.columns.name = None
