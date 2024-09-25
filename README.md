@@ -7,7 +7,7 @@ Multi-dimensional and multi-step prediction can be achieved, seq_len in the code
 
 Code coverage detailed comments, can be modified as needed. 
 
-Note that file_path is the address of the folder where the result is saved, and filename is the address where the historical data set is stored. Please change it as required. l is the file name of each data set, using the for loop can achieve a run to predict multiple data sets, and save the results. 
+Note that file_path and csv_path are the addresses of the folder where the results are saved, and filename is the address where the historical data set is stored. Please change it as required. l is the file name of each data set, using the for loop can achieve a run to predict multiple data sets, and save the results. 
 
 The introduction of its principle can be seen in the paper: ''PREDICTION OF THE STOCK ADJUSTED CLOSING PRICE BASED ON IMPROVED PSO-LSTM NEURAL NETWORK''
 
